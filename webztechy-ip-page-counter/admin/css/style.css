@@ -1,0 +1,18 @@
+/**
+ * @package     Page & IP Counter
+ * @Version: 	1.0.0
+ * @author      Webztechy <https://www.facebook.com/webztechy>
+ * @copyright   Copyright (c) 2016-2017, Webztechy
+ *
+ */
+ 
+/**
+.nav-tab-active { background: #fff;border-bottom: 0;}
+.counter-setting-wrapper { background: #fff; min-height: 350px; border: 1px solid #CCCCCC; border-top: 0; padding: 10px 20px;}
+
+*/
+
+.counter-setting-wrapper{padding:20px 0;}
+ul.counter-list > li { float: left; margin: 0 3px;}
+ul.counter-list > li > a { display: block; border: 1px solid #C1C1C1; padding: 2px 7px; text-decoration: none; background: #C7C7C7; color: #fff;}
+ul.counter-list > li > a.current, ul.counter-list > li > a:hover{ background: gray; border: 1px solid gray;}
