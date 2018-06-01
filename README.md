@@ -1,6 +1,7 @@
 # page-hits-counter
 
 === Page Hit and IP Address Counter ===
+
 Contributors: webztechy-plugins
 Tags: Page hit counter, IP address counter, unique IP address counter, page and ip plugin for wordpress, page counter, IP visitors
 Requires at least: 3.0.1
