@@ -3,11 +3,17 @@
 === Page Hit and IP Address Counter ===
 
 Contributors: webztechy-plugins
+
 Tags: Page hit counter, IP address counter, unique IP address counter, page and ip plugin for wordpress, page counter, IP visitors
+
 Requires at least: 3.0.1
+
 Tested up to: 4.4
+
 Stable tag: trunk
+
 License: GNU General Public License v3.0
+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
